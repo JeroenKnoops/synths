@@ -66,6 +66,7 @@
 - Oberheum Cyclone
 - Future Retro Mobius
 - Akai MPC-2000xl
+- Akai Live II Retro
 - Roland MSQ-700
 
 ## Other
