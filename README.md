@@ -6,6 +6,7 @@
 - Akai AX-73
 - Behringer TD-3
 - Behringer TD-3
+- Behringer TD-3-MO
 - Roland D-10
 - Roland SH-101
 - Roland TB-3
@@ -95,3 +96,4 @@
 - Reloop Keyfadr
 - Roli Seaboard rise 25
 - Kenton Thru-5
+- Behringer Swing
