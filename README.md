@@ -48,6 +48,8 @@
 - Behringer Virtualizer Pro
 - Boss DS-1
 - RAT distortion
+- Behringer UC200 - Ultra Chorus
+- Behringer SF300 - Super Fuzz
 
 ## Modular
 - DIY CEM
@@ -90,6 +92,7 @@
 - Yamaha Arius YDP-163B
 
 ### Other
+- iConnectivity - MioXL
 - Signex Patchbay
 - Philip Rees MDS
 - Presonus HP4
