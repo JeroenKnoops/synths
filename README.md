@@ -7,31 +7,31 @@
 - [Behringer TD-3](https://www.behringer.com/product.html?modelCode=P0DTD)
 - [Behringer TD-3](https://www.behringer.com/product.html?modelCode=P0DTD)
 - [Behringer TD-3-MO](https://www.behringer.com/behringer/product?modelCode=P0EYF)
-- Roland D-10
-- Roland SH-101
+- [Roland D-10](https://reverb.com/p/roland-d-10-61-key-multi-timbral-linear-synthesizer)
+- [Roland SH-101](https://reverb.com/p/roland-sh-101)
 - [Roland TB-3](https://www.roland.com/global/products/tb-3/)
 - [Roland TB-303](https://en.wikipedia.org/wiki/Roland_TB-303)
 - [Roland TB-03](https://www.musicstore.com/nl_NL/EUR/Roland-TB-03/art-SYN0005565-000)
 - [Elektron SIDStation](https://reverb.com/item/48903141-elektron-sidstation)
-- Korg Monotribe
-- MFB	MFB-synth
-- xoxbox xoxbox #011
-- Roland MC-303
+- [Korg Monotribe](https://reverb.com/p/korg-monotribe)
+- [MFB	MFB-synth](https://www.amazona.de/test-mfb-synth-synth-lite/)
+- [xoxbox xoxbox #011](http://ladyada.net/make/x0xb0x/)
+- [Roland MC-303](https://www.roland.com/global/products/mc-303/)
 - Casio	VL-tone
 
 ## Drumcomputers
-- Icon Design DSM-200
+- [Icon Design DSM-200](https://spheremusic.com/Bargaindtl.asp?Item=4902)
 - Clavia ddrum4
-- M.P.C. Electronics D.S.M.1
-- M.P.C. Electronics D.S.M.8+
-- M.P.C. Electronics D.S.M.8+
-- M.P.C. Electronics D.S.M.8+
-- M.P.C. Electronics D.S.M.32x4
-- M.P.C. Electronics D.S.M.32x4
-- Simmons SDS-800
-- Boss DR-110
+- [M.P.C. Electronics D.S.M.1](https://reverb.com/item/1597969-m-p-c-electronics-dsm-1-2-dsm-2-1970)
+- [M.P.C. Electronics D.S.M.8+](https://www.muzines.co.uk/articles/modular-synthesis/8033?theme=2)
+- [M.P.C. Electronics D.S.M.8+](https://www.muzines.co.uk/articles/modular-synthesis/8033?theme=2)
+- [M.P.C. Electronics D.S.M.8+](https://www.muzines.co.uk/articles/modular-synthesis/8033?theme=2)
+- [M.P.C. Electronics D.S.M.32x4](https://www.muzines.co.uk/articles/mpc-dsm32-electronic-drum-system/9008)
+- [M.P.C. Electronics D.S.M.32x4](https://www.muzines.co.uk/articles/mpc-dsm32-electronic-drum-system/9008)
+- [Simmons SDS-800](https://www.simmonsmuseum.com/?area=devices&view=details&id=17)
+- [Boss DR-110](https://en.wikipedia.org/wiki/Boss_Doctor_Rhythm_DR-110)
 - Roland Octapad 2 - PAD-80
-- Roland R8
+- [Roland R8](https://en.wikipedia.org/wiki/Roland_R-8)
 - Boss DR-55
 - Behringer RD-8
 - Roland TR-606
@@ -60,8 +60,8 @@
 - Cynthia Dark Star Chaos
 - Cynthia Sub Octave Multiplexer
 - Cynthia Medium Power Supply
-- Bohm Soundlab 
-- Bohm Soundlab
+- [Bohm Soundlab](https://www.synthforbreakfast.nl/bohm-soundlab/)
+- [Bohm Soundlab](https://www.synthforbreakfast.nl/bohm-soundlab/)
 - PAiA system 4700
 
 ## Sequencers
