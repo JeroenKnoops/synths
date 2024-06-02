@@ -18,6 +18,7 @@
 - [xoxbox xoxbox #011](http://ladyada.net/make/x0xb0x/)
 - [Roland MC-303](https://www.roland.com/global/products/mc-303/)
 - Casio	VL-tone
+- [Roland JV-1080](https://www.roland.com/nl/products/jv-1080/)
 
 ## Drumcomputers
 - [Icon Design DSM-200](https://spheremusic.com/Bargaindtl.asp?Item=4902)
@@ -50,6 +51,7 @@
 - RAT distortion
 - Behringer UC200 - Ultra Chorus
 - Behringer SF300 - Super Fuzz
+- [FMR - RNC](https://www.fmraudio.com/rnc.html)
 
 ## Modular
 - DIY CEM
@@ -78,12 +80,13 @@
 - Commodore	c64
 
 ### Mixer
-- Behringer Flow 8
+- [Behringer X32 Compact](https://www.behringer.com/behringer/product?modelCode=0603-AAB)
+- [Behringer S16](https://www.behringer.com/product.html?modelCode=0606-ABC)
+- [Behringer Flow 8](https://www.behringer.com/behringer/product?modelCode=0603-AEW)
 - M-audio Delta 1010
 - Mackie 1402-VLZ
 - Mackie 1604-VLZ
 - Akai DPS-16
-- Soundtracs Topaz
 
 ### Speakers
 - KRK	RP6 G3 Rokit
@@ -99,5 +102,7 @@
 - Presonus HP4
 - Reloop Keyfadr
 - Roli Seaboard rise 25
+- Roli Lumi 2x
 - Kenton Thru-5
 - Behringer Swing
+- Numark Mixstream Pro+
