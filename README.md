@@ -12,12 +12,12 @@
 - [Roland TB-3](https://www.roland.com/global/products/tb-3/)
 - [Roland TB-303](https://en.wikipedia.org/wiki/Roland_TB-303)
 - [Roland TB-03](https://www.musicstore.com/nl_NL/EUR/Roland-TB-03/art-SYN0005565-000)
-- [Elektron SIDStation](https://reverb.com/item/48903141-elektron-sidstation)
+- * [Elektron SIDStation](https://reverb.com/item/48903141-elektron-sidstation)
 - [Korg Monotribe](https://reverb.com/p/korg-monotribe)
 - [MFB	MFB-synth](https://www.amazona.de/test-mfb-synth-synth-lite/)
 - [xoxbox xoxbox #011](http://ladyada.net/make/x0xb0x/)
 - [Roland MC-303](https://www.roland.com/global/products/mc-303/)
-- Casio	VL-tone
+- * Casio	VL-tone
 - [Roland JV-1080](https://www.roland.com/nl/products/jv-1080/)
 
 ## Drumcomputers
@@ -41,8 +41,8 @@
 - Roland TR-08
 - [Roland TR-909](https://nl.wikipedia.org/wiki/Roland_TR-909)
 - Roland TR-707
-- Roland TR-727
-- Bohm Digital Drums
+- * Roland TR-727
+- * Bohm Digital Drums
 
 ## Effects
 - Ibanez AD-202
@@ -85,7 +85,7 @@
 - [Behringer Flow 8](https://www.behringer.com/behringer/product?modelCode=0603-AEW)
 - M-audio Delta 1010
 - Mackie 1402-VLZ
-- Mackie 1604-VLZ
+- * Mackie 1604-VLZ
 - Akai DPS-16
 
 ### Speakers
